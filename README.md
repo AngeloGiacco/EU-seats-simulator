@@ -1,4 +1,4 @@
-# EU-seats-simulator
+#🇪🇺EU-seats-simulator🇪🇺
 
 A simple script written in Python that will simulate the number of seats given to a particular party.
 
