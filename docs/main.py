@@ -29,7 +29,7 @@ parties_seats = {}
 for i in range(party_num):
     party_name = None
     while party_name == None:
-        party_name = raw_input("Please enter the name of the party:")
+        party_name = input("Please enter the name of the party:")
         if party_name in parties_seats:
             print("Party already entered")
             party_name = None
